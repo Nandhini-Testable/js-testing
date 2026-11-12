@@ -1,7 +1,7 @@
 ﻿# Testable Java corpus — JV_V21_MAVEN_SHADEDUBERJARRELOCATED_MICRO
 
 Grid cell `MVN-SHADE-S` of the 24-cell Java grid.
-
+#AA
 ## Project type
 
 Order pricing and risk domain. The domain layer is byte-identical across all 24 branches
